@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "npm run test",
+    "test": "jest"
+  },
+  "dependencies": {
+    "pngjs": "^6.0.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
